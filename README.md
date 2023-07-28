@@ -1,6 +1,6 @@
 #### 👋 Hi There! I'm a Full stack developer.
 #### ⚡ My main skills are Java, Spring, VueJS, Javascript and ES6.
-#### i'm a persistent person, who study hard day and night for be a good developer.
+#### 💬 i'm a persistent person, who study hard day and night for be a good developer.
 
   ---
   
