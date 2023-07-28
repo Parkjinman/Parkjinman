@@ -1,5 +1,5 @@
 ### 👋 Hi There! I'm a Full stack developer.
-### My main skills are Java, Spring, VueJS, Javascript and ES6.
+### ⚡ My main skills are Java, Spring, VueJS, Javascript and ES6.
 ### i'm a persistent person, who study hard day and night for be a good developer.
 
   ---
@@ -7,20 +7,20 @@
 ### Back-End 
   Java, Spring, Spring JPA, Rest API, Junit
   
-###  Front-End 
+### Front-End 
   html, css, JavaScript, ES6, VueJS, Json, Ajax
 
 ### DataBase
   PostgreSQL, MariaDB, MySQL, Oracle, Tibero
 
-###  DevOps
-  Git, SVN, Jenkins, Docker, Linux
+### DevOps
+  Jenkins, Docker, Linux
 
 ### Build Tool
   Gradle, Maven
 
-###  Collaboration & Tools
-  Intellij, Eclipse
+### CollaborationㆍDevelopment Tools
+  Git, SVN, REDMINE, YONA, Intellij, Eclipse
   
 <!--
 **Parkjinman/Parkjinman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
