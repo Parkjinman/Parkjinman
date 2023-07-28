@@ -10,11 +10,18 @@
 ###  Front-End 
   html, css, JavaScript, ES6, VueJS, Json, Ajax
 
+### DataBase
+  PostgreSQL, MariaDB, MySQL, Oracle, Tibero
+
 ###  DevOps
-  MySQL, Oracle, AWS EC2, Docker, Github Action
+  Git, SVN, Jenkins, Docker, Linux
+
+### Build Tool
+  Gradle, Maven
 
 ###  Collaboration & Tools
-  Figma, Github
+  Intellij, Eclipse
+  
 <!--
 **Parkjinman/Parkjinman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
