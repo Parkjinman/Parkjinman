@@ -7,7 +7,7 @@
   ---
   
 ### Back-End 
-  Java, Spring, Spring JPA, Rest API, Junit
+  Java, Spring, JPA Hibernate, Spring JPA, Rest API, Junit
   
 ### Front-End 
   html, css, JavaScript, ES6, VueJS, Json, Ajax
