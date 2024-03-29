@@ -7,7 +7,7 @@
   ---
   
 ### Back-End 
-  Java, Spring, JPA Hibernate, Spring JPA, Rest API, Junit
+  Java, Spring, JPA, Rest API, Junit
   
 ### Front-End 
   html, css, JavaScript, ES6, VueJS, Json, Ajax
@@ -16,13 +16,13 @@
   PostgreSQL, MariaDB, MySQL, Oracle, Tibero
 
 ### DevOps
-  Jenkins, Docker, Linux
+  Kubernetes, Docker, Jenkins, Linux
 
 ### Build Tool
-  Gradle, Maven
+  Gradle, Maven, Vite
 
 ### CollaborationㆍDevelopment Tools
-  Git, SVN, REDMINE, YONA, Intellij, Eclipse
+  GitHub, Git, SVN, REDMINE, YONA, Intellij, Eclipse
 
 <!--
 **Parkjinman/Parkjinman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
