@@ -16,7 +16,7 @@
   PostgreSQL, MariaDB, MySQL, Oracle, Tibero
 
 ### DevOps
-  Kubernetes, Docker, Jenkins, Linux
+  Kubernetes, Helm, Docker, Github Actions, Jenkins, Linux
 
 ### Build Tool
   Gradle, Maven, Vite
