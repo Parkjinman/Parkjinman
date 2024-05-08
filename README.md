@@ -7,7 +7,7 @@
   ---
   
 ### Back-End 
-  Java, Spring, JPA, Rest API, Junit
+  Java, Spring, JPA, Rest API, Junit, Mybatis, QueryDSL
   
 ### Front-End 
   html, css, JavaScript, ES6, VueJS, Json, Ajax
@@ -16,7 +16,7 @@
   PostgreSQL, MariaDB, MySQL, Oracle, Tibero
 
 ### DevOps
-  Kubernetes, Helm, Docker, Github Actions, Jenkins, Linux
+  Kubernetes, Helm, Docker, Github Actions, Github Package, Jenkins, Linux
 
 ### Build Tool
   Gradle, Maven, Vite
